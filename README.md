@@ -13,4 +13,4 @@ Please fork this repository
 
 ### Copyright
 
-2021 Git
+2021 Git. All rights reserved.
